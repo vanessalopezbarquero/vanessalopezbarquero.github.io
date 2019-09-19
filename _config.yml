@@ -83,10 +83,10 @@ author:
   name             : "Vanessa L&#243;pez-Barquero"
   avatar           : "profile.png"
   bio              : "Physics Ph.D. Student at the University of Wisconsin-Madison"
-  location         : "Location"
+  location         : "USA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=VFZ_ALkAAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
