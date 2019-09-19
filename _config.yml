@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Vanessa Lopez-Barquero"
 title_separator          : "-"
-name                     : &name "Vanessa Lopez-Barquero"
+name                     : &name "Vanessa L &#243;pez-Barquero"
 description              : &description "personal description"
 url                      : https://vanessalopezbarquero.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
