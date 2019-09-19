@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Vanessa Lopez-Barquero"
 title_separator          : "-"
-name                     : &name "Vanessa L &#243;pez-Barquero"
+name                     : &name "Vanessa Lopez-Barquero"
 description              : &description "personal description"
 url                      : https://vanessalopezbarquero.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Vanessa Lopez-Barquero"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Physics Ph.D. Student at the University of Wisconsin-Madison"
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
